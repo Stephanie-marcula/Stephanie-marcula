@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- My name is Stephanie Marçula and I'm a Java Developer, from Brazil.</p>
+<p align="left">- My name is Stephanie Marçula and I'm a Developer from Brazil.</p>
 
 ###
 
